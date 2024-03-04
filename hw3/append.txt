@@ -1,0 +1,9 @@
+create d
+append d One
+cat d
+append d Two
+cat d
+append d Three
+cat d
+append d Four
+cat d
